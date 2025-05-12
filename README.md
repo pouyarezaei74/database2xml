@@ -22,5 +22,3 @@ python calllog2xml.py calllog.db
 ```
 
 فایل XML تولیدشده در مسیر اجرای اسکریپت ذخیره می‌شود. کافی‌ست آن را در فولدر `SMSBackupRestore` روی حافظه گوشی بریزید و از طریق اپلیکیشن **SMS Backup & Restore** ریستور کنید.
-
-
