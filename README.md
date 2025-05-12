@@ -18,7 +18,7 @@ python convert_calllog_db_to_xml.py mmssms.db
 
 ### برای تماس‌ها:
 ```bash
-python calllog2xml.py calllog.db
+python convert_sms_db_to_xml.py calllog.db
 ```
 
 فایل XML تولیدشده در مسیر اجرای اسکریپت ذخیره می‌شود. کافی‌ست آن را در فولدر `SMSBackupRestore` روی حافظه گوشی بریزید و از طریق اپلیکیشن **SMS Backup & Restore** ریستور کنید.
