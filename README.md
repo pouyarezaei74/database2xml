@@ -13,7 +13,7 @@
 
 ### برای پیامک‌ها:
 ```bash
-python sms2xml.py mmssms.db
+python convert_calllog_db_to_xml.py mmssms.db
 ```
 
 ### برای تماس‌ها:
